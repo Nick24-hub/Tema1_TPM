@@ -7,7 +7,9 @@ Grupa :TPM 1 Tema realizata de:
 
 # Exercitiul 1
 
-![poza](img\ex1.png)
+<p align="center">
+  <img src="img/ex1.png" alt="">
+</p>
 
 a) Din desen observam ca secventa este linearizabila.
 
